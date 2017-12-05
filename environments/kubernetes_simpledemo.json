@@ -15,7 +15,6 @@
   "default_attributes": {
     "aai-traversal-config": {
 		"SERVICE_API_VERSION": "1.0.1",
-		"SOA_CLOUD_NAMESPACE": "org.openecomp.aai",
 		"AJSC_SERVICE_NAMESPACE": "traversal",
 		"AFTSWM_ACTION_ARTIFACT_NAME": "traversal",
 		"AJSC_JETTY_ThreadCount_MAX": "500",
